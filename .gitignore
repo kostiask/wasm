@@ -1,6 +1,6 @@
 binaryen/
 bindgen/
-build/
+#build/
 build-*/
 bytes/
 coverage/
